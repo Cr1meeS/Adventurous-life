@@ -1,0 +1,23 @@
+development stages:
+  in progress:
+    - basic movement and animations for it
+
+  complete:
+    :(
+
+future:
+- basic combat and animations for it
+- effects
+- inventory
+- items:
+  - weapon
+  - armor
+  - potions
+- enemies
+- full combat
+- environment
+- npcs
+- trading system
+- quests
+- story line
+- achivments
